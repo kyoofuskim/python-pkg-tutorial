@@ -1,1 +1,4 @@
-# python-pkg-tutorial
+# Read Me 
+
+이 프로젝트틑 파이썬 패키징을 학습하기 위한 프로젝트입니다.
+
